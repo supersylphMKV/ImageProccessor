@@ -1,0 +1,9 @@
+C:\Users\henriwijaya\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.exe.config
+C:\Users\henriwijaya\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.Form1.resources
+C:\Users\henriwijaya\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.Properties.Resources.resources
+C:\Users\henriwijaya\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\henriwijaya\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.exe
+C:\Users\henriwijaya\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.pdb
+C:\Users\henriwijaya\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Release\Newtonsoft.Json.dll
+C:\Users\henriwijaya\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.exe
+C:\Users\henriwijaya\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.pdb

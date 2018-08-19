@@ -1,0 +1,10 @@
+c:\users\henriwijaya\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+c:\users\henriwijaya\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+c:\users\henriwijaya\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+c:\users\henriwijaya\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+c:\users\henriwijaya\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+c:\users\henriwijaya\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+c:\users\henriwijaya\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+c:\users\henriwijaya\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\henriwijaya\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henriwijaya\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
